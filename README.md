@@ -31,14 +31,8 @@ This project involves an end-to-end data analytics workflow using Python for dat
 - Identify the sub-category with the highest profit growth in 2023 compared to 2022.
 
 ## Technologies Used
-- Python (Pandas, NumPy)
+- Python (Pandas)
 - SQL Server
 - Kaggle API
-- Matplotlib/Seaborn (for visualization, optional)
-
-## Future Improvements
-- Automate the pipeline using Apache Airflow.
-- Store data in a Cloud Data Warehouse (Snowflake/Azure Synapse).
-- Build interactive dashboards using Power BI/Tableau.
 
 💡 This project covers data extraction, transformation, and analysis to generate valuable business insights! 🚀
