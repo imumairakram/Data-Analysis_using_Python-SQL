@@ -1,4 +1,4 @@
-# End-to-End Data Analytics Project (Python + SQL)
+# End-to-End Data Analytics Project Using (Python + SQL)
 
 ## Project Overview
 This project involves an end-to-end data analytics workflow using Python for data processing and SQL Server for data storage and analysis. The goal is to extract, clean, transform, and analyze sales data to derive meaningful insights.
